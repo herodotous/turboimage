@@ -2,7 +2,7 @@ Turboimage Downloader
 ========
 
 Turboimage is a image hosting site, which hosts various albums.  This app is used for downloading  images in bulk from any given album
-# USAGE
+## USAGE
 1. Download all thumbnail images from site via some download manager. For eg. I use DTA one click which comes as firefox addon. 
 2. now download the script and do
 
@@ -14,6 +14,6 @@ In sourcefolder, there will be downloaded thumbnails of smaller images, that you
 If the script fails in the middle of the playlist you can restart it with the 
 same options and should pick up where it left off.
 
-#Depends on:
+## Depends on:
 1. Python 
 
